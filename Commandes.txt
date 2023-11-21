@@ -1,0 +1,55 @@
+- git init
+
+- Création des 2 fichiers (fichier1.txt fichier2.txt)
+
+- git add fichier1.txt fichier2.txt
+
+- git commit -m master
+
+- modification des 2 fichiers (fichier1.txt fichier2.txt)
+
+- création des 2 autres fichiers (fichier3.txt fichier4.txt)
+
+- touch .gitignore
+
+- mettre fichier3.txt et fichier4.txt dans le .gitignore
+
+- creation des fichiers 5 et 6
+
+- mise en place des fichiers Commandes.txt et Consignes.txt dans le .gitignore
+
+- git branch BrancheA BrancheB
+
+- git switch BrancheA
+
+- git add fichier1.txt fichier2.txt
+
+- git commit -m "fichier 1 et 2 dans BrancheA"
+
+- git switch master
+
+- git add *
+
+- git commit "fichier 5 et 6 dans BrancheB
+
+- git switch BrancheB
+
+- git add *
+
+- git commit "fichier 5 et 6 dans BrancheB
+
+- modification des fichiers 5 et 6
+
+- git branch (vérifier la branche sur laquelle HEAD est)
+
+- git add *
+
+- git commit -m "update fichier 5 et 6"
+
+- modification des fichiers 1 et 2
+
+- git switch BrancheA
+
+- git add *
+
+- git commit -m "update fichiers 1 et 2"
