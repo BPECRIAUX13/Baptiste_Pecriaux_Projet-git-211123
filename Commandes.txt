@@ -40,3 +40,16 @@
 
 - modification des fichiers 5 et 6
 
+- git branch (vérifier la branche sur laquelle HEAD est)
+
+- git add *
+
+- git commit -m "update fichier 5 et 6"
+
+- modification des fichiers 1 et 2
+
+- git switch BrancheA
+
+- git add *
+
+- git commit -m "update fichiers 1 et 2"
