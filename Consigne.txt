@@ -1,0 +1,15 @@
+-à chaque commande tappée, la mettre dans un fichier texte
+
+-Démarrer un projet
+-Créer 2 fichiers (f1 f2)
+-Faire un commit (dans master)
+-Modifier des fichier (les 2 fichier)
+-Ajouter des fichiers
+-utiliser gitignore
+-interdire f3 et f4
+-ajouter f5 et f6
+-Faire 2 branches (A et B)
+-Faire 5 commit dans master
+-Faire C6 C8 C9 C12 dans la branche A
+-Faire C7 C10 C11 dans la branche B
+-C12 est HEAD

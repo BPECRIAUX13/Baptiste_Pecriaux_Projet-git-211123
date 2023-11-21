@@ -1,0 +1,16 @@
+- git init
+
+- Création des 2 fichiers (fichier1.txt fichier2.txt)
+
+- git add fichier1.txt fichier2.txt
+
+- git commit -m master
+
+- modification des 2 fichiers (fichier1.txt fichier2.txt)
+
+- création des 2 autres fichiers (fichier3.txt fichier4.txt)
+
+- touch .gitignore
+
+- mettre fichier3.txt et fichier4.txt dans le .gitignore
+
