@@ -14,3 +14,29 @@
 
 - mettre fichier3.txt et fichier4.txt dans le .gitignore
 
+- creation des fichiers 5 et 6
+
+- mise en place des fichiers Commandes.txt et Consignes.txt dans le .gitignore
+
+- git branch BrancheA BrancheB
+
+- git switch BrancheA
+
+- git add fichier1.txt fichier2.txt
+
+- git commit -m "fichier 1 et 2 dans BrancheA"
+
+- git switch master
+
+- git add *
+
+- git commit "fichier 5 et 6 dans BrancheB
+
+- git switch BrancheB
+
+- git add *
+
+- git commit "fichier 5 et 6 dans BrancheB
+
+- modification des fichiers 5 et 6
+
